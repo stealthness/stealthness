@@ -1,4 +1,12 @@
-### Hi there 👋
+### Welcome
+
+ I am currently a research graduate PhD/MPhil student at Dept of Computer Science, Birckbeck University [[link](https://www.dcs.bbk.ac.uk/)].
+ 
+## Social Media Links
+
+Twitter: [@Stealthnes](https://twitter.com/stealthness)
+ 
+ When I am not researching I can be found running to improve my health. In October 4th 2021 I will be running the Virgin London Marathon.
 
 <!--
 **stealthness/stealthness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
