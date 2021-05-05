@@ -1,6 +1,6 @@
-### Welcome
+# Welcome to Stealthness's Github
 
- I am currently a research graduate PhD/MPhil student at Dept of Computer Science, Birckbeck University [[link](https://www.dcs.bbk.ac.uk/)].
+ I am currently a research graduate PhD/MPhil student at Dept of Computer Science, Birckbeck University [[link](https://www.dcs.bbk.ac.uk/)]. My research is looking at image classification, in particular faces, in low powered disconeected devices.
  
 ## Social Media Links
 
