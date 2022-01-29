@@ -10,9 +10,9 @@ Previously I was a research graduate PhD/MPhil student at Dept of Computer Scien
 
 ##  Links
 
-Itch.io: [stealthnes Itch.io page](https://stealthness.itch.io/)
-Twitter: [@Stealthnes](https://twitter.com/stealthness)
-Website: https://stealthness.co.uk/ (in process of being rebuild)
+- Itch.io: [stealthnes Itch.io page](https://stealthness.itch.io/)
+- Twitter: [@Stealthnes](https://twitter.com/stealthness)
+- Website: https://stealthness.co.uk/ (in process of being rebuild)
 
 <!--
 **stealthness/stealthness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
