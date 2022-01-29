@@ -2,9 +2,7 @@
 
 🌱 I’m currently learning games development using Unity games engine and Blender for 3D modelling. 
 
-🔭 I’m currently working on a part time demonstrator for Birkbeck, teach undergraduates and gradutes
-
-Previously I was a research graduate PhD/MPhil student at Dept of Computer Science, Birckbeck University [[link](https://www.dcs.bbk.ac.uk/)]. My research is looking at image classification, in particular faces, in low powered disconeected devices.
+🔭 I’m currently working on a part time demonstrator for Birkbeck, teaching Python and Java to undergraduates and gradutes students. Previously I was a researching a PhD/MPhil Birckbeck University [[link](https://www.dcs.bbk.ac.uk/)]. My research was investigating genetic programming for imagae classification.
 
 ⚡ Fun fact: I have been running to improve my health since 2017, including regually attending races and parkruns. In October 4th 2022 I will be running the London Marathon, having had to defer twice becuase of the covid pandemic.
 
