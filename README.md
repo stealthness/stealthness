@@ -15,4 +15,5 @@ Hi, my name is Stephen West.
 - Itch.io: [stealthnes Itch.io page](https://stealthness.itch.io/)
 - Twitter: [@Stealthnes](https://twitter.com/stealthness)
 - Mastodon: [@stealthness@mastodon.social](https://mastodon.social/@stealthness)
-- Instagram: []
+- Instagram: @Stealthnessgames [https://www.instagram.com/stealthnessgames/]
+- Birkbeck's staff profile [Stephen West](https://www.bbk.ac.uk/our-staff/profile/8005765/stephen-west)
