@@ -1,30 +1,18 @@
 # Welcome to Stealthness's Github
 
-🌱 I’m currently learning games development using Unity games engine and Blender for 3D modelling. 
+Hi, my name is Stephen West.
 
-🔭 I’m currently working on a part time demonstrator for Birkbeck, teaching Python and Java to undergraduates and gradutes students. Previously I was a researching a PhD/MPhil Birckbeck University [[link](https://www.dcs.bbk.ac.uk/)]. My research was investigating genetic programming for image classification.
+🌱 I’m learning game development using the Unity games engine. You can find some of the games I have developed whilst learning at Itch.io
 
-⚡ Fun fact: I have been running to improve my health since 2017, including regually attending races and parkruns. In October 4th 2022 I will be running the London Marathon, having had to defer twice becuase of the covid pandemic.
+🔭 I’m also a teaching demonstrator at Birkbeck, teaching Python and Java to undergraduates and graduate students. Previously I was researching a PhD/MPhil at Birkbeck University [[link](https://www.dcs.bbk.ac.uk/)]. My research was investigating genetic programming for image classification.
+
+⚡ Fun fact: I have been slowly improving my health, primarily through running. I can be found at parkrun most weekends and have completed many other distances, including one marathon.
+
+⚡ Fun fact: I suffer from Dyslexia, but I do not let that stop me, but it does mean that my written work can have mistakes, so it can be hard to read my stuff at times.
 
 ##  Links
 
 - Itch.io: [stealthnes Itch.io page](https://stealthness.itch.io/)
 - Twitter: [@Stealthnes](https://twitter.com/stealthness)
-- Website: https://stealthness.co.uk/ (in process of being rebuild)
-
-<!--
-**stealthness/stealthness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- 
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Mastodon: [@stealthness@mastodon.social](https://mastodon.social/@stealthness)
+- Instagram: []
