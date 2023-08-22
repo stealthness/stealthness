@@ -10,7 +10,7 @@ Hi, my name is Stephen West.
 
 + https://stealthness.itch.io/cien-malos-vaqueros
 
-+https://stealthness.itch.io/block-tap-game
++ https://stealthness.itch.io/block-tap-game
 
 🔭 I’m also a teaching demonstrator at Birkbeck, teaching Python and Java to undergraduates and graduate students. Previously I was researching a PhD/MPhil at Birkbeck University [[link](https://www.dcs.bbk.ac.uk/)]. My research was investigating genetic programming for image classification.
 
