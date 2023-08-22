@@ -4,6 +4,13 @@ Hi, my name is Stephen West.
 
 🌱 I’m learning game development using the Unity games engine. You can find some of the games I have developed whilst learning at Itch.io
 
+Recent Game made for Trijam
+![Screenshot of Blocky Ta Game](https://img.itch.zone/aW1hZ2UvMTM1Nzk1MC84MDgyMzY4LmdpZg==/original/sPxnWf.gif) https://stealthness.itch.io/number-invader
+
+
+https://stealthness.itch.io/cien-malos-vaqueros
+https://stealthness.itch.io/block-tap-game
+
 🔭 I’m also a teaching demonstrator at Birkbeck, teaching Python and Java to undergraduates and graduate students. Previously I was researching a PhD/MPhil at Birkbeck University [[link](https://www.dcs.bbk.ac.uk/)]. My research was investigating genetic programming for image classification.
 
 ⚡ Fun fact: I have been slowly improving my health, primarily through running. I can be found at parkrun most weekends and have completed many other distances, including one marathon.
