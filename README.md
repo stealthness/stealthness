@@ -6,7 +6,7 @@ Hi, my name is Stephen West.
 
 Recent Game made for Trijam
 ![Screenshot of Blocky Ta Game](https://img.itch.zone/aW1hZ2UvMTM1Nzk1MC84MDgyMzY4LmdpZg==/original/sPxnWf.gif | width=100)
-![Screenshot of the game Cien Malos Vaqueros](https://img.itch.zone/aW1hZ2UvMjIyNDg1Mi8xMzE2Njc5OC5wbmc=/original/IOUq2Y.png | width=100)
+![Screenshot of the game Cien Malos Vaqueros](https://img.itch.zone/aW1hZ2UvMjIyNDg1Mi8xMzE2Njc5OC5wbmc=/347x500/C91bq4.png | width=100)
 ![Screen shot of Number Invader](https://img.itch.zone/aW1hZ2UvMjE5NzA3OC8xMjk4NTkzMi5wbmc=/original/km2iV1.png | width=100)
 
 
