@@ -23,19 +23,22 @@ I have self-learned game design in the last two years, applying tools like Unity
 
 ## 🔭 Birkbeck
 
-I'm also a teaching demonstrator at Birkbeck, teaching Python and Java to undergraduates and graduate students. Previously I was researching a PhD/MPhil at Birkbeck University [[link](https://www.dcs.bbk.ac.uk/)]. My research investigates the use of Genetic Programming (GP) to find a sub-optimal feature selection, combined with a Federated Learning (FL) process to find a suitable classifier for Image Classification (IC) problems in an environment where resources are limited.
+I'm also a teaching demonstrator at Birkbeck, teaching Python and Java to undergraduates and graduate students. Previously, I was researching a PhD/MPhil at Birkbeck University [[link](https://www.dcs.bbk.ac.uk/)]. My research investigates the use of Genetic Programming (GP) to find a sub-optimal feature selection, combined with a Federated Learning (FL) process to find a suitable classifier for Image Classification (IC) problems in an environment where resources are limited.
 
 ## Miscellaneous
 
 ⚡ Fun fact: I have been slowly improving my health, primarily through running. I can be found at parkrun most weekends and have completed many other distances, including one marathon.
 
-⚡ Fun fact: I suffer from Dyslexia, but I do not let that stop me, but it does mean that my written work can have mistakes, so it can be hard to read my stuff at times.
+⚡ Fun fact: I suffer from Dyslexia, but I do not let that stop me. It means that my written work can have mistakes, so it can be hard to read my stuff at times.
 
 # Updates
+## January 2024
+
+New Year has started, and one goal this year is to produce and publish a game on Steam.
 
 ## August 2023
 
-There has been a clear-out of old repositories. I have archived two, deleted abandoned projects and made several repositories private that I want to keep for self-referencing but are too old to maintain.
+There has been a clear-out of old repositories. I have archived two, deleted abandoned projects, and made several private repositories that I want to keep for self-referencing but are too old to maintain.
 
 ##  Links
 
