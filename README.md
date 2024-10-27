@@ -1,16 +1,16 @@
 # Welcome to Stealthness's Github
 
-Hi, my name is Stephen West.
-
 I am a part-time demonstrator for the Faculty of Science at Birkbeck, University of London and a solo independent games developer. 
 
 ## Games Development
 
 # Stealthness Games at itch.io
 
-Primary developing games with Unity with Visual Studio with  Adobe Photoshop, Illustrator, and Animator for character design and animation and Audacity for editing sounds. I use Piskelapp for pixel art and prototyping. 
+I am primarily developing games with Unity with Rider, Adobe Photoshop, Illustrator, and Piskel for character design and animation. I also use Audacity to edit sounds, which I mostly find on Pixabay. 
 
-I have self-learned game design in the last two years, applying tools like Unity to publish various small games on the Itch.io platform. I have participated in game jams, including Trijam and Brackey's game jam, and gained valuable feedback from each. 
+I am self-taught in game design using free online tutorials, resources from [O'riells](https://learning.oreilly.com/), and applying these skills learnt in game jams like Trijam, which is hosted on Itch.io.
+
+Below are some examples;
 
 + https://stealthness.itch.io/number-invader
 <img width="200" alt="Screenshot" src="https://github.com/stealthness/stealthness/assets/669284/37c9f3f4-02b2-48d3-a32d-9160d3b6450d">
@@ -32,18 +32,22 @@ I'm also a teaching demonstrator at Birkbeck, teaching Python and Java to underg
 ⚡ Fun fact: I suffer from Dyslexia, but I do not let that stop me. It means that my written work can have mistakes, so it can be hard to read my stuff at times.
 
 # Updates
+
+## September 2024
+
+So, I took a break from game development to focus on improving my health over the summer. I was due to start a new course, but the funding did not materialise. So now I am back on game development.
+
 ## January 2024
 
 New Year has started, and one goal this year is to produce and publish a game on Steam.
 
 ## August 2023
 
-There has been a clear-out of old repositories. I have archived two, deleted abandoned projects, and made several private repositories that I want to keep for self-referencing but are too old to maintain.
+I have cleared out old repositories. I have archived two, deleted abandoned projects, and created several private repositories that I want to keep for self-referencing but are too old to maintain.
 
 ##  Links
 
 - Itch.io: [stealthnes Itch.io page](https://stealthness.itch.io/)
-- Twitter: [@Stealthnes](https://twitter.com/stealthness)
 - Mastodon: [@stealthness@mastodon.social](![Uploading IOUq2Y.png…]()
 https://mastodon.social/@stealthness)
 - Instagram: @Stealthnessgames [https://www.instagram.com/stealthnessgames/]
