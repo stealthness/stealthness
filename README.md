@@ -12,6 +12,11 @@ I am self-taught in game design using free online tutorials, resources from [O'r
 
 Below are some examples;
 
+Latest Trijam 293
++ [Deep Dive Hunt](https://stealthness.itch.io/deep-dive-hunt-trijam-293)
+  ![Deep Dive Hunt on ItchIO](https://github.com/user-attachments/assets/6618c7b7-7308-4491-9c40-71a59b781143>)
+
+
 + https://stealthness.itch.io/number-invader
 <img width="200" alt="Screenshot" src="https://github.com/stealthness/stealthness/assets/669284/37c9f3f4-02b2-48d3-a32d-9160d3b6450d">
 
