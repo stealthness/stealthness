@@ -14,7 +14,6 @@ Below are some examples;
 
 Latest Trijam 293
 + [Deep Dive Hunt](https://stealthness.itch.io/deep-dive-hunt-trijam-293)
-  ![Deep Dive Hunt on ItchIO](https://github.com/user-attachments/assets/6618c7b7-7308-4491-9c40-71a59b781143>)
 
 
 + https://stealthness.itch.io/number-invader
